@@ -1,0 +1,136 @@
+{
+  "contact": {
+    "name": "Aaron Loeb",
+    "photoUrl": "https://cdn0.iconfinder.com/data/icons/user-pictures/100/malecostume-512.png",
+    "location": "New Delhi, Delhi-110041",
+    "phone": "Your phone number",
+    "email": "Your Email Id",
+    "linkedin": "Your LinkedIn Profile Link",
+    "github": "Your Github Profile Link"
+  },
+
+  "objective": "Senior year Engineering student at Anytown University (current GPA: 8.7) (education), looking to join XYZ State University Department of XYZ Research Team as a part-time research assistant (organization and position). Seeking to leverage strong data entry and lab maintenance skills (skills) gained through volunteer lab experience at the campus to ensure all research databases and libraries are easily accessible to XYZ State’s students (added value).",
+
+  "education": [
+    {
+      "year": "Aug 2018 - Aug 2022",
+      "course": "B.Tech (Computer Science & Engineering)",
+      "institution": "Name of your Institution",
+      "university": "Name of your University",
+      "percentage": "94"
+    },
+    {
+      "year": "May 2017",
+      "course": "12th (PCM + CS)",
+      "institution": "Name of your School",
+      "university": "Name of your University",
+      "percentage": "98"
+    },
+    {
+      "year": "May 2015",
+      "course": "10th",
+      "institution": "Name of your School",
+      "university": "Name of your University",
+      "percentage": "10"
+    }
+  ],
+
+  "languages": [
+    { "language": "English", "level": 5 },
+    { "language": "Hindi", "level": 5 },
+    { "language": "French", "level": 3 }
+  ],
+
+  "experience": [
+    {
+      "year": "Aug 2019 - Dec 2019",
+      "company": "Name of the Company",
+      "position": "Position in the Company",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores."
+    },
+    {
+      "year": "July 2020 - Dec 2020",
+      "company": "Name of the Company",
+      "position": "Position in the Company",
+      "description": "Created Android applications using Android Studio and Kotlin."
+    }
+  ],
+
+  "certifications": [
+    {
+      "year": "Jul 2019 - Oct 2019",
+      "institution": "Name of your Institution",
+      "course": "Name of the Course",
+      "description": "Course Description",
+      "score": "Score Achieved"
+    },
+    {
+      "year": "Jun 2020 - Dev 2020",
+      "institution": "Name of your Institution",
+      "course": "Name of the Course",
+      "description": "Course Description",
+      "score": "Score Achieved"
+    }
+  ],
+
+  "skills": [
+    "C",
+    "C++",
+    "C#",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Typescript",
+    "React",
+    "jQuery",
+    "Node.js",
+    "ASP.NET",
+    "MySQL",
+    "NoSQL",
+    "Android",
+    "IOT",
+    "DBMS",
+    "Operating System",
+    "Object Oriented Programming"
+  ],
+
+  "projects": [
+    {
+      "title": "Project-1",
+      "link": "https://project1.myapp.com",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+    },
+    {
+      "title": "Project-2",
+      "link": "https://project-2.random.com",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "title": "Some Random Project",
+      "link": "https://project-3.muapp.com",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable."
+    }
+  ],
+
+  "projects_link": "https://some-more-projects.github.com",
+
+  "workshops": [
+    {
+      "year": "Sep 2019",
+      "description": "Attended a 2-day workshop on Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
+    },
+    {
+      "year": "Nov 2020",
+      "description": "If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text."
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Mr. Henry Mitchell",
+      "desig": "HOD, CSE Department, XYZ College, New Delhi",
+      "phone": "+91 0123456789",
+      "email": "henry6rmitc78@example.com"
+    }
+  ]
+}
